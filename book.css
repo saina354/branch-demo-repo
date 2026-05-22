@@ -1,0 +1,5 @@
+/* book.css */
+body{font-family:Arial;text-align:center;background:#f4f4f4;}
+h1{color:darkblue;}
+button{padding:10px 20px;background:blue;color:white;border:none;}
+button:hover{background:darkred;}
